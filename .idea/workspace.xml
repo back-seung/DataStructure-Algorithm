@@ -7,6 +7,8 @@
     <list default="true" id="9b606c9f-4d91-4f78-811e-67a7107c2aa9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/dataStructure/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dataStructure/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dataStructure/ListI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dataStructure/ListI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dataStructure/test/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dataStructure/test/Tester.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +19,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -59,7 +61,7 @@
       <recent name="dataStructure" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Tester">
     <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sort.InsertionSort" />
       <module name="algorithm" />
@@ -86,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sort.SelectionSort" />
-      <module name="Algorithm" />
+    <configuration name="Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dataStructure.test.Tester" />
+      <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sort.*" />
+          <option name="PATTERN" value="dataStructure.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tester" />
         <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.SortTest" />
         <item itemvalue="JUnit.SortTest.버블정렬_되었다" />
         <item itemvalue="Application.InsertionSort" />
-        <item itemvalue="Application.SelectionSort" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +145,7 @@
       <workItem from="1668347787680" duration="3121000" />
       <workItem from="1668434055103" duration="1422000" />
       <workItem from="1668607783491" duration="598000" />
-      <workItem from="1668856832255" duration="8957000" />
+      <workItem from="1668856832255" duration="13522000" />
     </task>
     <servers />
   </component>
