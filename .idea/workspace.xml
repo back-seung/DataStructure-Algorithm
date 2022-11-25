@@ -6,9 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9b606c9f-4d91-4f78-811e-67a7107c2aa9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dataStructure/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dataStructure/LinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/dataStructure/ListI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dataStructure/ListI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dataStructure/test/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dataStructure/test/Tester.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +17,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -41,6 +39,8 @@
   <component name="ProjectId" id="2HMMN2ZlbfK78lRgy8Ax8K00Ejw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
@@ -145,7 +145,7 @@
       <workItem from="1668347787680" duration="3121000" />
       <workItem from="1668434055103" duration="1422000" />
       <workItem from="1668607783491" duration="598000" />
-      <workItem from="1668856832255" duration="13522000" />
+      <workItem from="1668856832255" duration="19605000" />
     </task>
     <servers />
   </component>
