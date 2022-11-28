@@ -1,1 +1,1 @@
-package dataStructure;public interface HashI {}
+package dataStructure;public interface HashI<K, V> {}
